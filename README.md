@@ -30,8 +30,8 @@ Plot the confusion matrix as a heatmap to assess prediction performance.
 ```c
 /*
 Program to implement SVM for food classification for diabetic patients.
-Developed by: Vishwaraj G
-RegisterNumber:  212223220125
+Developed by: HAMZA FAROOQUE
+RegisterNumber:  212223040054
 */
 # Import necessary libraries
 import pandas as pd
